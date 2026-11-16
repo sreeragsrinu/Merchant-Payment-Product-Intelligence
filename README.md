@@ -644,7 +644,7 @@ Use Power BI Desktop to explore the interactive report. Update data-source paths
 
 # Power BI Dashboard
 
-![Merchant Payment Product Intelligence Power BI Dashboard](powerbi_dashboard/dashboard.png)
+![Merchant Payment Product Intelligence Dashboard](images/dashboard.png)
 
 ## License
 

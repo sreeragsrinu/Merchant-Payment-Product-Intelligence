@@ -663,7 +663,7 @@ All datasets are synthetic and generated for educational and portfolio demonstra
 
 ## Developed By
 
-** SREERAG **  
+SREERAG
 BCA Data Science Graduate
 
 - **GitHub:** [@sreeragsrinu](https://github.com/sreeragsrinu)

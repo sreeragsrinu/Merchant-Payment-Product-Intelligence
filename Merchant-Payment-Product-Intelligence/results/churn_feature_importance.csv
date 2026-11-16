@@ -1,0 +1,10 @@
+feature,importance
+num__total_volume_processed,0.44412704661394325
+num__total_transactions,0.4117347362442319
+num__avg_transaction_amount,0.07201524781791081
+num__merchant_age_days,0.036834471043209006
+cat__business_type_SME,0.011947495388451032
+cat__business_type_Enterprise,0.010797886311077485
+num__num_payment_methods_used,0.01039491113050442
+num__successful_transaction_rate,0.0015521502615993082
+num__failure_rate,0.0005960551890728428

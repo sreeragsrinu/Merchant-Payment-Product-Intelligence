@@ -1,4 +1,5 @@
-# Merchant Payment Product Intelligence
+<h1 align="center">Merchant Payment Product Intelligence</h1>
+
 
 <p align="center">
   <img src="images/Neon%20Merchant%20Intelligence%20Dashboard%20Animation.gif"

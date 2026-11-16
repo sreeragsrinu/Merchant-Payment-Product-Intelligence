@@ -1,6 +1,10 @@
 # Merchant Payment Product Intelligence
 
-![Merchant Payment Product Intelligence Animation](images/Neon%20Merchant%20Intelligence%20Dashboard%20Animation.gif)
+<p align="center">
+  <img src="images/Neon%20Merchant%20Intelligence%20Dashboard%20Animation.gif"
+       alt="Merchant Payment Product Intelligence Dashboard"
+       width="100%">
+</p>
 
 **End-to-End Fintech Product Analytics | SQL | Python | Machine Learning | Power BI**
 

@@ -1,6 +1,11 @@
-# Merchant Payment Product Intelligence
+<h1 align="center">Merchant Payment Product Intelligence</h1>
 
-![Merchant Payment Product Intelligence Animation](images/Neon%20Merchant%20Intelligence%20Dashboard%20Animation.gif)
+
+<p align="center">
+  <img src="images/Neon%20Merchant%20Intelligence%20Dashboard%20Animation.gif"
+       alt="Merchant Payment Product Intelligence Dashboard"
+       width="100%">
+</p>
 
 **End-to-End Fintech Product Analytics | SQL | Python | Machine Learning | Power BI**
 
@@ -644,7 +649,7 @@ Use Power BI Desktop to explore the interactive report. Update data-source paths
 
 # Power BI Dashboard
 
-![Merchant Payment Product Intelligence Power BI Dashboard](powerbi_dashboard/dashboard.png)
+![Merchant Payment Product Intelligence Dashboard](images/dashboard.png)
 
 ## License
 
